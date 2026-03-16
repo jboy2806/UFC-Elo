@@ -1,2 +1,2 @@
-# UFC-Elo
-Ufc elo calculator engine
+# UFC-WebScraper
+Web Scraper for ufc data
